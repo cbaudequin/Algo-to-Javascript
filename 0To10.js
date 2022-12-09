@@ -14,7 +14,7 @@ console.log("Bien joué balourd");
 
 */
 
-//Solution ChatGpt
+//Solution
 
 let myNumber;
 
@@ -28,5 +28,3 @@ do {
 } while (myNumber < 0 || myNumber > 10);
 
 console.log("Bien joué balourd");
-
-//Corrigé
